@@ -1,2 +1,3 @@
 # matrixStoredProcedure
 A horrible concept of using Postgres stored procedures to do matrix math on rows. This is intentionally a bad idea.
+Edit from 3 years in the future. Urge to impliment this using a flat file database wrapper increasing...
